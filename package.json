@@ -1,0 +1,29 @@
+{
+  "name": "search-in-pi",
+  "version": "1.0.0",
+  "description": "Search any number in pi with 1m digits and get index of where that number located from.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpmb0816/search-in-pi.git"
+  },
+  "keywords": [
+    "nodejs",
+    "p5",
+    "express",
+    "pi"
+  ],
+  "author": "John Paulo Beyong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpmb0816/search-in-pi/issues"
+  },
+  "homepage": "https://github.com/jpmb0816/search-in-pi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
