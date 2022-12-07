@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/jpmb0816/search-in-pi#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
